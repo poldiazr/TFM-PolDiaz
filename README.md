@@ -15,7 +15,7 @@ The main goal of this project was to develop a reliable pipeline for vertebra se
 
 ## Repository Structure
 
-- **nnUNet**: Contains all files for **preprocessing**, performing the necessary **remapping**, **fine-tuning**, and **quantitative analysis**.  
+- **nnUNet**: Contains all files for **preprocessing**, performing the necessary **remapping**, **fine-tuning**, and **quantitative analysis**.  It includes also a `results` folder with some of the **quantitative outcomes**.
 - **postProcessing**: Contains two subfolders, one for each **post-processing technique** used. Each subfolder includes a `results` folder with some of the **quantitative outcomes**.  
   *Note: The Chan–Vese method was implemented in **MATLAB**, not Python.*
 
