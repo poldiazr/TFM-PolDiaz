@@ -19,7 +19,12 @@ The main goal of this project was to develop a reliable pipeline for vertebra se
 - **postProcessing**: Contains two subfolders, one for each **post-processing technique** used. Each subfolder includes a `results` folder with some of the **quantitative outcomes**.  
   *Note: The Chan–Vese method was implemented in **MATLAB**, not Python.*
 
-  ## Author
+## Trained Model
+
+Download the trained model here:
+https://drive.google.com/file/d/18u9QobdtcQhRPG-vGqtYwu4SHsaIEY_C/view?usp=drive_link
+
+## Author
 
 - **Pol Díaz** – Master's Thesis – Universitat Politècnica de Catalunya
 - Contact: poldiazr01@gmail.com
