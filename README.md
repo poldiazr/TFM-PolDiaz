@@ -21,7 +21,7 @@ The main goal of this project was to develop a reliable pipeline for vertebra se
 
 ## Trained Model
 
-Download the trained model here:
+Request the trained model here:
 https://drive.google.com/file/d/18u9QobdtcQhRPG-vGqtYwu4SHsaIEY_C/view?usp=drive_link
 
 ## Author
